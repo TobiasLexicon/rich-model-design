@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A7EB49CC-6763-45D4-A374-68A579BB4297}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectDesign/StoreExample/Order.cs">
+    <Files>
+      <File FileName="ObjectDesign.Tests/OrderTest.cs" Line="63" Column="38" />
+      <File FileName="ObjectDesign/StoreExample/Order.cs" Line="49" Column="10" />
+      <File FileName="ObjectDesign/StoreExample/OrderProduct.cs" Line="16" Column="46" />
+      <File FileName="ObjectDesign/StoreExample/Product.cs" Line="16" Column="25" />
+      <File FileName="ObjectDesign/Data/InstantiatedValues.cs" Line="23" Column="10" />
+      <File FileName="ObjectDesign/Program.cs" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ObjectDesign" expanded="True">
+            <Node name="ObjectDesign" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="StoreExample" expanded="True">
+                <Node name="Order.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ObjectDesign.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ObjectDesign" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ObjectDesign PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

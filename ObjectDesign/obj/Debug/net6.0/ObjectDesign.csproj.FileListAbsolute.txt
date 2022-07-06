@@ -1,0 +1,15 @@
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/ObjectDesign.csproj.AssemblyReference.cache
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/ObjectDesign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/ObjectDesign.AssemblyInfoInputs.cache
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/ObjectDesign.AssemblyInfo.cs
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/ObjectDesign.csproj.CoreCompileInputs.cache
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/bin/Debug/net6.0/ObjectDesign
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/bin/Debug/net6.0/ObjectDesign.deps.json
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/bin/Debug/net6.0/ObjectDesign.runtimeconfig.json
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/bin/Debug/net6.0/ObjectDesign.dll
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/bin/Debug/net6.0/ObjectDesign.pdb
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/ObjectDesign.dll
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/refint/ObjectDesign.dll
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/ObjectDesign.pdb
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/ObjectDesign.genruntimeconfig.cache
+/Users/tobiasengberg/Projects/ObjectDesign/ObjectDesign/obj/Debug/net6.0/ref/ObjectDesign.dll
